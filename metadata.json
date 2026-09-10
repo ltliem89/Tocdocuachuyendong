@@ -1,0 +1,6 @@
+{
+  "name": "Tốc độ truy cập",
+  "description": "Mô phỏng khám phá tốc độ chuyển động (KHTN 7): đo lường, so sánh, khám phá thương số s/t, đổi đơn vị m/s và km/h, vận dụng v=s/t.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
