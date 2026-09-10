@@ -1,7 +1,7 @@
 export const L = {
   vi: {
     // App header & global
-    appName: "Tốc độ truy cập",
+    appName: "Tốc độ chuyển động",
     appSubtitle: "Mô phỏng khám phá tốc độ chuyển động (KHTN 7)",
     gradeSubject: "KHTN 7 • Vật lí • Bài 8",
     langToggle: "English",
